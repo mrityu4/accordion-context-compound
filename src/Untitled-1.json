@@ -1,0 +1,285 @@
+[
+    {
+        "before": [
+            "t"
+        ],
+        "commands": [
+            "editor.action.smartSelect.expand",
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "i"
+        ],
+        "after": [
+            "i",
+            "<Right>"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "a"
+        ],
+        "after": [
+            "<C-U>"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "s"
+        ],
+        "after": [
+            "<C-D>"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "o"
+        ],
+        "commands": [
+            "editor.action.smartSelect.shrink",
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "e"
+        ],
+        "commands": [
+            "workbench.action.quickOpen",
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "g",
+            "e"
+        ],
+        "after": [
+            "$"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "g",
+            "e"
+        ],
+        "after": [
+            "<Nop>"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "g",
+            "s"
+        ],
+        "after": [
+            "0"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "["
+        ],
+        "after": [
+            "{"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "]"
+        ],
+        "after": [
+            "}"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "}"
+        ],
+        "after": [
+            "]"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "{"
+        ],
+        "after": [
+            "gg"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "!"
+        ],
+        "after": [
+            "1"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "@"
+        ],
+        "after": [
+            "2"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "#"
+        ],
+        "after": [
+            "3"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "$"
+        ],
+        "after": [
+            "4"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "%"
+        ],
+        "after": [
+            "5"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "^"
+        ],
+        "after": [
+            "6"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "&"
+        ],
+        "after": [
+            "7"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "*"
+        ],
+        "after": [
+            "8"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "("
+        ],
+        "after": [
+            "9"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "1"
+        ],
+        "after": [
+            "!"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "2"
+        ],
+        "after": [
+            "@"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "3"
+        ],
+        "after": [
+            "#"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "4"
+        ],
+        "after": [
+            "$"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "5"
+        ],
+        "after": [
+            "%"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "6"
+        ],
+        "after": [
+            "^"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "7"
+        ],
+        "after": [
+            "&"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "8"
+        ],
+        "after": [
+            "*"
+        ],
+        "silent": true
+    },
+    {
+        "before": [
+            "9"
+        ],
+        "after": [
+            "("
+        ],
+        "silent": true
+    }
+]
